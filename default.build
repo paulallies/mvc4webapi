@@ -10,4 +10,12 @@
     -->
 
   <property name="solutionFilename" value="${project::get-name()}.sln" />
+  <target name="default" depends="compile" />
+   <target name="compile">
+    <msbuild project="${solutionFilename}">
+        <property name="Configuration" value="Release"/>
+    </msbuild>
+  </target>
+
+
   </project>
