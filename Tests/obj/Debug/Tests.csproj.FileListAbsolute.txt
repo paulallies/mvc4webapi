@@ -1,0 +1,7 @@
+E:\Developer\mvc4webapi\Tests\bin\Debug\Tests.dll
+E:\Developer\mvc4webapi\Tests\bin\Debug\Tests.pdb
+E:\Developer\mvc4webapi\Tests\obj\Debug\Tests.dll
+E:\Developer\mvc4webapi\Tests\obj\Debug\Tests.pdb
+E:\Developer\mvc4webapi\Tests\bin\Debug\nunit.framework.dll
+E:\Developer\mvc4webapi\Tests\bin\Debug\nunit.framework.xml
+E:\Developer\mvc4webapi\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
