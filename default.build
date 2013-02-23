@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<project name="YourProjectName" default="default">
+
+    <!--
+    Build configurations:
+    Local        - For local builds/testing
+    Testing    - Teamcity deploy to development server
+    Staging - Teamcity deploy to staging server
+    Live        - Teamcity deploy to live servers
+    -->
+
+  <property name="solutionFilename" value="${project::get-name()}.sln" />
+  </project>
